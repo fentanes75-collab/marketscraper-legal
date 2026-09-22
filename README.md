@@ -1,2 +1,4 @@
-# marketscraper-legal
-Terms of Service and Privacy Policy for MarketScraper Pro Chrome Extension.
+# MarketScraper Pro
+
+**Official Chrome Extension** | Developer: Ing. Gustavo Fentanes M.  
+*Last updated: September 2026*
